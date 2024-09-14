@@ -5,7 +5,7 @@ const v= 5;
 const y = 6;
 const z = v + y;
 console.log(z)
-var b=6;
+var b=6;   //hellguys
 {
     const v=7;             //
     const y=9;
